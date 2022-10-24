@@ -16,7 +16,11 @@ body
     color: white;
     font-weight: bold;
     margin: 0;
+<<<<<<< HEAD
     padding: 0.5em 0 0.5em 2em;
+=======
+    padding: 0.5em;
+>>>>>>> footer
 }
 
 #cabecera #logo
@@ -30,7 +34,7 @@ body
 {
     padding: 0 0 0 1cm;
     font-weight: normal;
-    font-size: 0.8cm;
+    font-size: 0.8em;
 }
 
 #container
@@ -49,6 +53,18 @@ body
 
 #post
 {
+<<<<<<< HEAD
     background: white;
     padding: 1em;
+=======
+    padding: 1em;
+}
+
+#footer
+{
+    background: #777;
+    color: white;
+    text-align: center;
+    padding: 0.5em;
+>>>>>>> footer
 }
